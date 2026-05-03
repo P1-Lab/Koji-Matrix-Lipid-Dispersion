@@ -1,0 +1,15 @@
+{
+  "matrix_id": "KMLD-YAM-01",
+  "scaffold": "Koji-fermented mushroom (Pleurotus)",
+  "barrier_material": "Dioscorea alata starch",
+  "mass_ratios": {
+    "lipid_payload": 1.0,
+    "koji_scaffold_dry": 0.35,
+    "vitrified_starch_barrier": 0.45
+  },
+  "critical_constants": {
+    "target_moisture_content": 0.02,
+    "glass_transition_temp_tg": 58.5,
+    "minimum_cation_density": 0.12
+  }
+}
