@@ -1,0 +1,15 @@
+{
+  "matrix_id": "KMLD-JIC-02",
+  "scaffold": "Koji-fermented mushroom (Lentinula)",
+  "barrier_material": "Pachyrhizus erosus starch",
+  "mass_ratios": {
+    "lipid_payload": 1.0,
+    "koji_scaffold_dry": 0.40,
+    "vitrified_starch_barrier": 0.38
+  },
+  "critical_constants": {
+    "target_moisture_content": 0.018,
+    "glass_transition_temp_tg": 54.0,
+    "hydration_trigger_rate": "3s"
+  }
+}
