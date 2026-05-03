@@ -1,0 +1,18 @@
+{
+  "profile_id": "TP-FLASH-02",
+  "base_matrix": "KMLD-YAM-01",
+  "thermal_triggers": [
+    {
+      "temp_celsius": 90,
+      "state": "retention",
+      "release_rate": "0.01mg/s",
+      "description": "High-amylose barrier maintained for surface browning."
+    },
+    {
+      "temp_celsius": 165,
+      "state": "explosive_release",
+      "release_rate": "2.50mg/s",
+      "description": "Total vitrified wall failure; immediate lipid saturation."
+    }
+  ]
+}
