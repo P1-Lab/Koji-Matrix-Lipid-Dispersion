@@ -1,0 +1,18 @@
+{
+  "profile_id": "TP-STD-01",
+  "base_matrix": "KMLD-YAM-01",
+  "thermal_triggers": [
+    {
+      "temp_celsius": 60,
+      "state": "activation",
+      "release_rate": "0.05mg/s",
+      "description": "Initial wall softening; phase transition initiates."
+    },
+    {
+      "temp_celsius": 105,
+      "state": "peak_render",
+      "release_rate": "0.85mg/s",
+      "description": "Complete lattice collapse; standard sizzle performance."
+    }
+  ]
+}
