@@ -1,0 +1,15 @@
+FAT-OS/
+├── .github/
+│   └── workflows/
+├── docs/
+│   ├── SPECIFICATION.md          # Core Technical Standard
+│   ├── PHASE-RELEASE-LOGIC.md    # Thermal/Hydration Trigger Data
+│   └── AUDIT-FRAMEWORK.md        # Quality Assurance Standards
+├── src/
+│   ├── matrices/                 # Ratios for Starch/Koji/Lipid
+│   │   ├── yam_standard.json     # Encapsulation coefficients
+│   │   └── jicama_standard.json
+│   ├── thermal_profiles/         # Release curve data sets
+│   └── environmental/            # Nitrogen & Moisture tolerance models
+├── LICENSE                       # MIT License
+└── README.md                     # Project Overview
